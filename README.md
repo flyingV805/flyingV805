@@ -2,6 +2,20 @@
 
 I'm Vlad, a developer living in Kazakhstan. I like simple, clear and efficient code.
 
+```kt
+object FlyingV805 {
+
+    const val realname = "Vladislav Petrov"
+    const val location = "Kazakhstan"
+    val contact = mapOf(
+        "Mail" to "petrov.vladislav1992@gmail.com",
+        "Twitter" to "@FlyingV805",
+        "Telegram" to "@flyingV805"
+    )
+
+}
+```
+
 ## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  
