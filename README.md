@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Vlad, a developer living in Kazakhstan. I like simple, clear and efficient code.
+
+## Languages
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-E34F26.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 <!--
 **flyingV805/flyingV805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
