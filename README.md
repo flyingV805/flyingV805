@@ -10,7 +10,8 @@ object FlyingV805 {
     val contact = mapOf(
         "Mail" to "petrov.vladislav1992@gmail.com",
         "Twitter" to "@FlyingV805",
-        "Telegram" to "@flyingV805"
+        "Telegram" to "@flyingV805",
+        "GooglePlay" to "https://play.google.com/store/apps/dev?id=5483614031466140359"
     )
 
 }
