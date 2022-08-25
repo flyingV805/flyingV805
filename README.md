@@ -16,6 +16,8 @@ object FlyingV805 {
 }
 ```
 
+![Profile Stats](https://github.com/flyingV805/flyingV805/main/profile-3d-contrib/profile-night-green.svg)
+
 ## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  
