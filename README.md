@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Vlad, a developer living in Kazakhstan. I like simple, clear and efficient code.
 
@@ -7,6 +7,7 @@ object FlyingV805 {
 
     const val realname = "Vladislav Petrov"
     const val location = "Kazakhstan"
+
     val contact = mapOf(
         "Mail" to "petrov.vladislav1992@gmail.com",
         "Twitter" to "@FlyingV805",
